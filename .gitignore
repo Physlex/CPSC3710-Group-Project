@@ -1,0 +1,9 @@
+# Executables
+*.exe
+*.a
+
+# Objects
+*.o
+
+# Precompiled
+*.gch
